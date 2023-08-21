@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Kelsey Fulton</title>
+    <link>https://kfulton121.github.io/publication/</link>
+      <atom:link href="https://kfulton121.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 May 2023 12:14:20 +0000</lastBuildDate>
+    <image>
+      <url>https://kfulton121.github.io/media/logo_hu76e8b0627da78881c7875948533d843a_112076_300x300_fit_lanczos_2.png</url>
+      <title>Publications</title>
+      <link>https://kfulton121.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Vulnerability Discovery for All: Experiences of Marginalization in Vulnerability Discovery</title>
+      <link>https://kfulton121.github.io/publication/v4a/</link>
+      <pubDate>Wed, 10 May 2023 12:14:20 +0000</pubDate>
+      <guid>https://kfulton121.github.io/publication/v4a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the How and the Why: Exploring Secure Development Practices Through a Course Competition</title>
+      <link>https://kfulton121.github.io/publication/bibifi-winter/</link>
+      <pubDate>Mon, 07 Nov 2022 22:59:40 +0000</pubDate>
+      <guid>https://kfulton121.github.io/publication/bibifi-winter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benefits and Drawbacks of Adopting a Secure Programming Language: Rust as a Case Study</title>
+      <link>https://kfulton121.github.io/publication/rust-ecosystem/</link>
+      <pubDate>Tue, 10 Aug 2021 12:14:20 +0000</pubDate>
+      <guid>https://kfulton121.github.io/publication/rust-ecosystem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding security mistakes developers make: Qualitative analysis from Build It, Break It, Fix It</title>
+      <link>https://kfulton121.github.io/publication/bibifi-qual/</link>
+      <pubDate>Wed, 12 Aug 2020 22:59:40 +0000</pubDate>
+      <guid>https://kfulton121.github.io/publication/bibifi-qual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Build It, Break It, Fix It: Contesting Secure Development</title>
+      <link>https://kfulton121.github.io/publication/bibifi/</link>
+      <pubDate>Thu, 10 Oct 2019 12:14:20 +0000</pubDate>
+      <guid>https://kfulton121.github.io/publication/bibifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Entertainment Media on Mental Models of Computer Security</title>
+      <link>https://kfulton121.github.io/publication/mediasec/</link>
+      <pubDate>Sat, 10 Aug 2019 12:07:36 +0000</pubDate>
+      <guid>https://kfulton121.github.io/publication/mediasec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
