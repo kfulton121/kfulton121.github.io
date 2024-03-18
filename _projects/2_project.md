@@ -5,7 +5,6 @@ description: Computer Organization
 img: 
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 <h1>Overview:</h1>
