@@ -1,12 +1,23 @@
 "SOUPS":
   url: https://www.usenix.org/conferences/byname/884
-  color: "#00369f"
+  color: "#facd02"
 
 "USENIX":
   url: https://www.usenix.org/conferences/byname/108
+  color: "#e8422b"
 
 "S&P":
   url: https://ieeexplore.ieee.org/xpl/conhome/1000646/all-proceedings
+  color: "#495e9c"
 
 "CCS":
   url: https://dl.acm.org/conference/ccs
+  color: "#0530af"
+
+"WSIW":
+  url: https://security-information-workers.org/
+  color: "#64178a"
+
+"TOPS":
+  url: https://dl.acm.org/journal/tops
+  color: "#66460d"
