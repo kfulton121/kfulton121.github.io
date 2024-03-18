@@ -11,7 +11,9 @@
       institution: University of Maryland, College Park, MD
       year: 2023
       description:
-        - Thesis title: Understanding and Improving Secure Development from a Human-Centered Perspective
+        - title: Thesis title
+          contents:
+            - Understanding and Improving Secure Development from a Human-Centered Perspective
     - title: M.Sc. Computer Science
       institution: University of Maryland, College Park, MD
       year: 2019

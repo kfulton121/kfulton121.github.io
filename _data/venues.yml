@@ -1,6 +1,12 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"SOUPS":
+  url: https://www.usenix.org/conferences/byname/884
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"USENIX":
+  url: https://www.usenix.org/conferences/byname/108
+
+"S&P":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1000646/all-proceedings
+
+"CCS":
+  url: https://dl.acm.org/conference/ccs
