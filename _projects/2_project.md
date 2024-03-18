@@ -13,5 +13,5 @@ organization. This course provides insight into the way computers operate at the
 It is expected that students have have working knowledge of the programming language C/C++.
 Topics to be covered are as follows.
 
-<h2>Semesters taugh:t</h2>
+<h2>Semesters taught:</h2>
 Fall 2023
