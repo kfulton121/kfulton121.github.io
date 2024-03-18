@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CSCI 598C
+title: csci 598C
 description: Introductin to Human Factors in Privacy and Security
 img: assets/img/12.jpg
 importance: 1
