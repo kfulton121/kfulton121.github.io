@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kfulton121.github.io/al-folio/sitemap.xml
+Sitemap: https://kfulton121.github.io/sitemap.xml
