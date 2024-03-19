@@ -40,7 +40,7 @@ As your advisor, you can expect that I will:
 
 <h2>What do I expect from you?</h2>
 Working with me, I will expect that you will:
-- Come to our regular meetings with todos completed and questions/disicussion points prepared.
+- Come to our regular meetings with todos completed and questions/discussion points prepared.
 - Be self-motivated and proactive. I expect that you will attempt to solve any issues you run into in your research through outside sources or other lab members. If you can't find a solution within a reasonable about of time, I exoect that you will reach out to me asap. I also expect that you will take initiative on projects by pursuing relevant resources, planning next steps, and organizing projects to meet necessary deadlines. Expectations will change as you progress through your PhD. I expect more from senior students than junior students.
 - Communicate with me. This means communicating when issues arise, both in your research and your personal life. Additionally, if you are taking time off, please communicate this with me. 
 - Be a good community member to your fellow lab mates, Mines CS department, and the broader security and privacy community. This may include offering assistance to fellow grad students, attending job talks from prosepctive faculty candidates, chatting with prosepctive graduate students, and volunteering at conferences.
