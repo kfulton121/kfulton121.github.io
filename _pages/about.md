@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Security researcher. Climber. Coffee aficianado.
+subtitle: Security researcher. Climber. Coffee aficianado. (They/Them/Theirs)
 
 profile:
   align: right
