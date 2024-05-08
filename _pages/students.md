@@ -21,7 +21,7 @@ Third, Mines is an R1 institution with a unique focus on research and teaching. 
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/lab_logo.jpg" title="SPAM logo" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/lab_logo.png" title="SPAM logo" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-4 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/mts.jpg" title="Rocky Mountains" class="img-fluid rounded z-depth-1" %}
