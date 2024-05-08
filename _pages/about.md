@@ -6,7 +6,7 @@ subtitle: Security researcher. Climber. Coffee aficianado. (They/Them/Theirs)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: new_prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>CTLM 214C</p>
