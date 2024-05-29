@@ -1,9 +1,8 @@
 ---
 layout: post
-title: I won the John Karat Usable Security and Privacy Student Research Award
-date: 2023-08-07 16:11:00-0400
+date: 2023-08-14 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-<a href="https://www.cs.umd.edu/article/2023/08/recent-alum-kelsey-fulton-receives-john-karat-award">I won the John Karat Usable Security and Privacy Student Research Award</a>
+I started as an Assistant Professor in the Computer Science department at the Colorado School of Mines.
