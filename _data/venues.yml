@@ -15,9 +15,13 @@
   color: "#0530af"
 
 "WSIW":
-  url: https://security-information-workers.org/
+  url: https://security-information-workers.github.io
   color: "#64178a"
 
 "TOPS":
   url: https://dl.acm.org/journal/tops
   color: "#66460d"
+
+"CSET":
+  url: https://dl.acm.org/journal/tops
+  color: "#228B22"
