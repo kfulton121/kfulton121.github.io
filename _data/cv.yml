@@ -31,6 +31,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - Distinguished Reviewer Award, USENIX Security
     - year: 2023
       items:
         - Noteworthy Reviewer Award, USENIX Security
