@@ -46,4 +46,4 @@ Working with me, I expect that you will:
 - Be a good community member to your fellow lab mates, the Mines CS department, and the broader security and privacy community. This may include offering assistance to fellow grad students, attending job talks from prospective faculty candidates, chatting with prospective graduate students, and volunteering at conferences.
 
 <h2>How to apply?</h2>
-If working with me sounds like your cup of tea, please submit [an application](https://cs.mines.edu/applicationadmission/) and email me to let me know you have applied. In the email, please let me know what interests you about working with me. 
+If working with me sounds like your cup of tea, please submit [an application](https://cs.mines.edu/applicationadmission/) and fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdgTSNhMoFoAdc9WMgcZt2NiOQD7vbE3uoyglcn1virPcrMtg/viewform?usp=sf_link).
