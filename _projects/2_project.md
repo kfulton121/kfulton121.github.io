@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 341
-description: Computer Organization
+title: Computer Organization
+description: 
 img: 
 importance: 2
 category: work
