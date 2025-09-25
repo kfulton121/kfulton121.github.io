@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I won the John Karat Usable Security and Privacy Student Research Award
-date: 2023-08
+date: 2023-08-13
 inline: true
 related_posts: false
 ---
