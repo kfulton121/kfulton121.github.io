@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<b style = "background-color:#023020;"> GOOD NEWS:</b> I started as an Assistant Professor in the Computer Science department at the Colorado School of Mines.
+<b style = "background-color:green;"> GOOD NEWS:</b> I started as an Assistant Professor in the Computer Science department at the Colorado School of Mines.
