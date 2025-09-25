@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper detailing the system we built for remote secure development studies has been accepted at <a href="https://cset24.isi.edu/">CSET 2024</a>!
+<b> GOOD NEWS: </b> Our paper detailing the system we built for remote secure development studies has been accepted at <a href="https://cset24.isi.edu/">CSET 2024</a>!
