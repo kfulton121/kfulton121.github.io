@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Work with colleagues exploring the coomunity experiences of security professionals has been accepted at <a href="https://www.usenix.org/conference/soups2024">SOUPS 2024</a>!
+<b style = "background-color:#023020;"> GOOD NEWS:</b> Work with colleagues exploring the coomunity experiences of security professionals has been accepted at <a href="https://www.usenix.org/conference/soups2024">SOUPS 2024</a>!
