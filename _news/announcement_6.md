@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<b style = "background-color:#8B0000;"> BAD NEWS:</b> Grant rejected from OpenAI Cybersecurity Grant program.
+<b style = "background-color:red;"> BAD NEWS:</b> Grant rejected from OpenAI Cybersecurity Grant program.
