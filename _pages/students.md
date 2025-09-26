@@ -2,7 +2,7 @@
 layout: page
 permalink: /students/
 title: prospective students
-description: Information for prospective students interested in joining the SPAM lab
+description: Information for students interested in joining the SPAM lab
 nav: true
 nav_order: 5
 toc:
@@ -13,9 +13,9 @@ In my opinion, research is one of the most rewarding pursuits. You get to think 
 
 If research is something that you think you might want to do for a career, grad school is likely a good choice for you.
 
-<h1>Why join the <span style="color:#102e82;">S</span><span style="color:#bf2c34;">P</span><span style="color:#f6d047;">A</span><span style="color:#aaaaaa;">M</span> lab?</h1> 
+<h1>Why join the SPAM lab?</h1> 
 
-Other than the super cool name and the even cooler logo, there are several really great reasons to join the SPAM lab. First, I am an early-career faculty member which means that I am very excited to work with students in a hands-on fashion. I have many new and exciting ideas, and I am very happy to work closely with you as we develop them. Second, I work in an incredibly interesting space focusing on both the **human** and **technial factors** impacting **secure software development**. Working with me means getting to **hunt for vulnerabilities** and **understand how people think**, often in the same project.
+Other than the super cool name and the even cooler logo, there are several really great reasons to join the SPAM lab. First, I am an early-career faculty member which means that I am very excited to work with students in a hands-on fashion. I have many new and exciting ideas, and I am very happy to work closely with you as we develop them. Second, I work in an incredibly interesting space focusing on both the **human** and **technial factors** impacting **security and privacy**. Working with me means getting to **hunt for vulnerabilities** and **understand how people think**, often in the same project.
 
 Third, Mines is an R1 institution with a unique focus on research and teaching. The CS department is a small, tight-knit community. Finally, Mines is located in the beautiful Golden, CO. If you like doing stuff oustide, Colorado has a lot to offer. Additionally, there are many incredible concerts ([Red Rocks Ampitheater](https://www.redrocksonline.com/)), breweries, and places to eat. 
 

@@ -20,12 +20,12 @@ social: true # includes social icons at the bottom of the page
 
 I'm an Assistant Professor in the [**Department of Computer Science**](https://cs.mines.edu/) at the [**Colorado School of Mines**](https://www.mines.edu/) where I run the Security and People at Mines (SPAM) lab. I received my PhD from the University of Maryland, where I was advised by [**Michelle Mazurek**](https://www.umiacs.umd.edu/~mmazurek/) in the [**Security, Privacy, and People Lab (SP2)**](https://sp2.umiacs.io/).
 
-My research exists at the **intersection of people and security and privacy**. The goal of my research is to improve peoples' understanding and implementations of security and privacy by empirically evaluating their experiences and knowledge. Recent research has focused on:
+My research exists at the **intersection of people and security and privacy**. The goal of my research is to improve peoples' understandings and implementations of security and privacy by empirically evaluating their experiences and knowledge. Recent research has focused on:
 - Improving security and privacy education at the K-12 level
 - Exploring the impacts of AI on security and privacy in various capacities (K-12 spaces, software development, study design, etc)
 - Improving the adoption of secure tools and programming languages (fuzzers, Rust, etc)
 
-As a result of my work, I aim to provide scientifically-based recommendations for the improvement of secure development, security and privacy education, and the security and rpivacy considerations of emerging AI technologies.
+As a result of my work, I aim to provide scientifically-based recommendations for the improvement of secure development, security and privacy education, and the security and privacy considerations of emerging AI technologies.
 
 I am fortunate to work with a number of incredible graduate students:
 - Kelly Fisher (CS PhD)
