@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /students/
-title: prospective students
+title: Prospective students
 description: Information for students interested in joining the SPAM lab
 nav: true
 nav_order: 5

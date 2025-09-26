@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /hobbies/
-title: outside of work
+title: Outside of work
 description: A collection of things I enjoy in my free time
 nav: true
 nav_order: 6

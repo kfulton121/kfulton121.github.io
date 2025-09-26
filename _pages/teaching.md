@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Courses I have taught
 nav: true
 nav_order: 3
@@ -21,7 +21,6 @@ Learning objectives include:
 **Semesters taught:** Fall 2024, Fall 2025
 
 <h2><span style="color:#879EC3;">CSCI 588: Introduction to Human Factors in Security and Privacy</span></h2>
-Spring 2024, Spring 2025, Spring 2026
 
 <h5>Overview:</h5>
 As Bruce Schneier remarks, "the more secure you make something, the less secure it becomes," meaning that we cannot rely on purely technical solutions for security. We also need to consider the “human factors” that affect the security of our systems. Human factors that affect security might be how everyday users decide which security advice to (not) follow, why developers still introduce vulnerabilities into their code, and how security needs may differ for specialized populations.
@@ -35,8 +34,9 @@ Learning objectives include:
 - Propose potential solutions to real-world security and privacy problems: Propose solutions to real-world problems outside of class using the various research results discussed in class, especially for systems identified as being difficult for users to handle in a privacy- and/or security-preserving manner (homework, discussions)
 - Critique existing research: Critique existing research in the space of human factors in privacy and security by applying the foundational methodology and ethics considerations discussed in class, specifically highlighting the resulting limitations and ethics concerns (homework, discussions)
 
+**Semesters taught:** Spring 2024, Spring 2025, Spring 2026
+
 <h2><span style="color:#879EC3;">CSCI 341: Computer Organization</span></h2>
-Fall 2023
 
 <h5>Overview:</h5>
 This is an undergraduate level course that covers the basic concepts of computer architecture and organization. This course provides insight into the way computers operate at the machine level. It is expected that students have have working knowledge of the programming language C/C++. Topics to be covered are as follows: 
@@ -46,3 +46,5 @@ This is an undergraduate level course that covers the basic concepts of computer
 - Computer Arithmetic 
 - Processor Design 
 - Memory Hierarchy
+
+**Semesters taught:** Fall 2023
