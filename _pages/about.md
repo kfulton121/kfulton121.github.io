@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Security researcher. Climber. Coffee aficianado. (They/Them/Theirs)
+subtitle: Security researcher. Climber. Rat parent. (They/Them/Theirs)
 
 profile:
   align: right
@@ -18,8 +18,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm an Assistant Professor in the [**Department of Computer Science**](https://cs.mines.edu/) at the [**Colorado School of Mines**](https://www.mines.edu/). I did my PhD at the University of Maryland, advised by [**Michelle Mazurek**](https://www.umiacs.umd.edu/~mmazurek/) in the [**Security, Privacy, and People Lab (SP2)**](https://sp2.umiacs.io/).
+I'm an Assistant Professor in the [**Department of Computer Science**](https://cs.mines.edu/) at the [**Colorado School of Mines**](https://www.mines.edu/) where I run the Security and People at Mines (SPAM) lab. I received my PhD from the University of Maryland, where I was advised by [**Michelle Mazurek**](https://www.umiacs.umd.edu/~mmazurek/) in the [**Security, Privacy, and People Lab (SP2)**](https://sp2.umiacs.io/).
 
-My research centers around secure software development, with a focus on **the human factors impacting secure software development**. I'm interested in understanding how software developers and security professionals reason and think about security in their job roles. Specifically, I'd like to explore how current security interventions, tools, programming languages, and organizational processes fail developers and security professionals and how we can improve them. As a result of my work, I aim to provide scientifically-based recommendations for improvements of secure development resources, secure development tools, and secure development processes.
+My research exists at the **intersection of people and security and privacy**. The goal of my research is to improve peoples' understanding and implementations of security and privacy by empirically evaluating their experiences and knowledge. Recent research has focused on:
+- Improving security and privacy education at the K-12 level
+- Exploring the impacts of AI on security and privacy in various capacities (K-12 spaces, software development, study design, etc)
+- Improving the adoption of secure tools and programming languages (fuzzers, Rust, etc)
 
-**I do not currenlty have any openings for PhD students. I have a few openings for excited, motivated undergraduate and Master's students. If you are interested in working with me, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdgTSNhMoFoAdc9WMgcZt2NiOQD7vbE3uoyglcn1virPcrMtg/viewform?usp=sf_link). Prospective students can look at the [prospective students](https://kfulton121.github.io/students/) page for details.**
+As a result of my work, I aim to provide scientifically-based recommendations for the improvement of secure development, security and privacy education, and the security and rpivacy considerations of emerging AI technologies.
+
+I am fortunate to work with a number of incredible graduate students:
+- Kelly Fisher (CS PhD)
+- Jake Hoekstra (CS PhD)
+- Jack Kingham (CS PhD)
+- Katy Limes (CS PhD)
+
+**I do not currenlty have any openings for PhD students. I have a few openings for excited, motivated undergraduate and Master's students. Prospective students can look at the [prospective students](https://kfulton121.github.io/students/) page for details.** 
