@@ -6,8 +6,7 @@ description: Courses I have taught
 nav: true
 nav_order: 3
 ---
-<h2><span style="color:#879EC3;">CSCI 475: Inforamtion Security and Privacy</span></h2>
-Fall 2024, Fall 2025
+<h2><span style="color:#879EC3;">CSCI 475: Information Security and Privacy</span></h2>
 
 <h5>Overview:</h5>
 A hands-on introduction to the principles and best practices in information and computer security. Lecture topics include basic components of information security including software security, cryptography, systems security, network security, cloud security, and economics and human behaviors. 
@@ -18,6 +17,8 @@ Learning objectives include:
 - Analyze real-world security and privacy problems in modern computing environments.
 - Use common security and privacy tools and techniques.
 - Critique existing security and privacy protection techniques or studies.
+
+**Semesters taught:** Fall 2024, Fall 2025
 
 <h2><span style="color:#879EC3;">CSCI 588: Introduction to Human Factors in Security and Privacy</span></h2>
 Spring 2024, Spring 2025, Spring 2026
