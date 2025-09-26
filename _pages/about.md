@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Security researcher. Climber. Rat parent. (They/Them/Theirs)
 

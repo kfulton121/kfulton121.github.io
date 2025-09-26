@@ -45,15 +45,17 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Usable Security
+    - title: Usable Security and Privacy
       items:
         - Software developers
         - Security professionals
+        - K-12 S&P education
+        - Impact of AI on S&P
     - title: Secure software development
       items:
         - Secure programming languages (usability, adoptability, efficacy)
         - Secure development resources (efficacy, improvement)
-        - Vulenrability discovery (approaches)
+        - Vulnerability discovery (approaches)
 
 - title: Other Interests
   type: list
