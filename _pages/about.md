@@ -33,4 +33,4 @@ I am fortunate to work with a number of incredible graduate students:
 - Jack Kingham (CS PhD)
 - Katy Limes (CS PhD)
 
-**I do not currenlty have any openings for PhD students. I have a few openings for excited, motivated undergraduate and Master's students. Prospective students can look at the [prospective students](https://kfulton121.github.io/students/) page for details.** 
+**I do not currenlty have any openings for PhD or MS students. I have a few openings for excited, motivated undergraduate students. Prospective students can look at the [prospective students](https://kfulton121.github.io/students/) page for details.** 
