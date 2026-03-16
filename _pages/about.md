@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm an Assistant Professor in the [**Department of Computer Science**](https://cs.mines.edu/) at the [**Colorado School of Mines**](https://www.mines.edu/) where I run the Security and People at Mines (SPAM) lab. I received my PhD from the University of Maryland, where I was advised by [**Michelle Mazurek**](https://www.umiacs.umd.edu/~mmazurek/) in the [**Security, Privacy, and People Lab (SP2)**](https://sp2.umiacs.io/).
+I'm an Assistant Professor in the [**Department of Computer Science**](https://cs.mines.edu/) at the [**Colorado School of Mines**](https://www.mines.edu/) where I run the [**Security and People at Mines (SPAM)**](https://spam-mines.github.io/) lab. I received my PhD from the University of Maryland, where I was advised by [**Michelle Mazurek**](https://www.umiacs.umd.edu/~mmazurek/) in the [**Security, Privacy, and People Lab (SP2)**](https://sp2.umiacs.io/).
 
 My research exists at the **intersection of people and security and privacy**. The goal of my research is to improve peoples' understandings and implementations of security and privacy by empirically evaluating their experiences and knowledge. Recent research has focused on:
 - Improving security and privacy education at the K-12 level
