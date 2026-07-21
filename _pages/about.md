@@ -28,7 +28,6 @@ My research exists at the **intersection of people and security and privacy**. T
 As a result of my work, I aim to provide scientifically-based recommendations for the improvement of secure development, security and privacy education, and the security and privacy considerations of emerging AI technologies.
 
 I am fortunate to work with a number of incredible graduate students:
-- Kelly Fisher (CS PhD)
 - Jake Hoekstra (CS PhD)
 - Jack Kingham (CS PhD)
 - Katy Limes (CS PhD)
